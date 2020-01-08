@@ -1,6 +1,6 @@
 # Class-Intro
 A quick intro to using Github in CS161
-## **Nia**
+## **Nia** 
 Nia lives in Salem and her major is in **Computer Science**. She's currently dual enrolled in OSU and her degree is in *Computer Electrical Engineering and AI*. :computer:
 She doesnt know what she wants to do once she graduates but she just enjoys computers in general and enjoys putting together computer components and designs. :hammer_and_wrench:
 The way that she found out about computer electrical engineering was going to OSU and trying it out. 
@@ -14,3 +14,6 @@ Last term she was working and going to college but she failed 2 of her classes s
 
 
 ![Raspberry Pi](https://images-na.ssl-images-amazon.com/images/I/71EPckcD8ZL._AC_SX466_.jpg)
+
+
+@nianatali18 @joeparislbcc
